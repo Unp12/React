@@ -88,7 +88,7 @@ const Footer = () => {
         <div className="bottom-details">
           <div className="bottom_text">
             <span className="copyright_text">
-              Copyright © 2021 <a href="link">Refresher</a>All rights reserved
+              Copyright © 2025 <a href="link">Refresher</a>All rights reserved
             </span>
             <span className="policy_terms">
               <a href="link">Privacy policy</a>
